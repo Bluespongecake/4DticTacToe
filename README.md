@@ -1,4 +1,4 @@
-##4D tic tac toe
+## 4D tic tac toe
 
 A game to be run on a node.js webserver
 
