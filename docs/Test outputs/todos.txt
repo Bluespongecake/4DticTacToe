@@ -1,0 +1,23 @@
+TODO
+
+write details on API
+
+write details on tests
+
+consider more tests that test behavior rather than implementation
+
+[/] Write an HTML file with a description of how to play
+
+[/] ensure tacToe.js is pure
+
+[/] implement an isDraw() function
+
+[/] make it so the dialogue winning message reflects the player who won
+
+[/] tidy up files
+
+errors
+
+[/] maybe some way to display what index the user is clicking on?
+
+submit
